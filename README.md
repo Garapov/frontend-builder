@@ -34,6 +34,7 @@ gulp-html-starter
 │   ├── img
 │   ├── js
 │   ├── scss
+│   ├── svgicons
 ├── .env_example
 ├── package.json
 ├── gulpfile.js
